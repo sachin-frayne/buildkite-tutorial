@@ -6,5 +6,3 @@ steps:
   - command: "scripts/do-something-else.sh"
   - label: "Another"
     command: "scripts/do-another-thing.sh"
-    agents:
-      queue: "another"
