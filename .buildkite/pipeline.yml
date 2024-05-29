@@ -2,7 +2,7 @@ agents:
   queue: "awesome-queue"
 
 steps:
-  - command: "scripts/do-something.sh"
-  - command: "scripts/do-something-else.sh"
+  - command: "./scripts/do-something.sh"
+  - command: "./scripts/do-something-else.sh"
   - label: "Another"
-    command: "scripts/do-another-thing.sh"
+    command: "./scripts/do-another-thing.sh"
