@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-echo "Goodbye, world!"
+echo "Goodbye, World!"
